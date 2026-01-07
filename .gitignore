@@ -1,0 +1,21 @@
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ambiente virtual (se existir)
+venv/
+.env/
+
+# banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# ide / editor
+.vscode/
+.idea/
+
+# sistema operacional
+.DS_Store
+Thumbs.db
